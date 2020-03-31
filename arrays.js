@@ -30,4 +30,10 @@ function removeElementFromBeginningOfArray(array){
   return array.shift;
 }
 
-function destructivelyRemoveElementFromEndOfArray(array)
+function removeElementFromEndOfArray(array){
+
+}
+
+function arrays removeElementFromEndOfArray(array){
+
+}
