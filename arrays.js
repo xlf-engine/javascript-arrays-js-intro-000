@@ -1,7 +1,7 @@
-const addElementToBeginningOfArray = () => {
-
+const addElementToBeginningOfArray = (array, element) => {
+  return [element, ...array]
 }
 
-const destructivelyAddElementToBeginningOfArray = () => {
-  
+const destructivelyAddElementToBeginningOfArray = (array, element) => {
+
 }
